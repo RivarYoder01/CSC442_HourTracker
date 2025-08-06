@@ -1,6 +1,0 @@
-Weekly Report
-Start: 2025-08-03 09:00:00, End: 2025-08-03 17:30:00, Hours Worked: 8, Minutes Worked: 30
-Start: 2025-08-03 09:00:00, End: 2025-08-03 17:30:00, Hours Worked: 8, Minutes Worked: 30
-Start: 2025-08-03 09:00:00, End: 2025-08-03 17:30:00, Hours Worked: 8, Minutes Worked: 30
-Total Time Worked: 25 hours and 30 minutes
-

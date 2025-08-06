@@ -37,10 +37,10 @@ clearReport
 TESTER
 
 entering correct hours
-entering incorrect hours (produces negative hours)
+entering incorrect hours
+entering negativ hours
 entering hours and ending week
 ending week without hours
+viewing report
 clearing report
-clearing report with no hours
-
 """
